@@ -1,5 +1,5 @@
 {
-  "name": "@nick.scalewest/nest-storage",
+  "name": "@pensoft/nest-storage",
   "version": "0.0.8",
   "description": "Multi disk multi driver storage manager for NestJS 💿💾",
   "main": "dist/index.js",
@@ -11,13 +11,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nick.scalewest/nestjs-storage.git"
+    "url": "git+https://github.com/pensoft/nest-storage.git"
   },
   "bugs": {
-    "url": "https://github.com/nick.scalewest/nestjs-storage/issues"
+    "url": "https://github.com/pensoft/nest-storage/issues"
   },
-  "homepage": "https://github.com/nick.scalewest/nestjs-storage",
-  "author": "SCALEWEST",
+  "homepage": "https://github.com/pensoft/nest-storage/nest-storage",
+  "author": "pensoft",
   "private": false,
   "license": "MIT",
   "scripts": {
